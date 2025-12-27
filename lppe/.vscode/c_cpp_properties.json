@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "wsl2",
+            "includePath": [
+                "${workspaceFolder}",
+                "${workspaceFolder}/extern",
+                "${workspaceFolder}/extern/glad/include",
+                "${workspaceFolder}/extern/imgui",
+                "/usr/include",
+                "/usr/include/opencv4"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "8.1",
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
