@@ -5,7 +5,7 @@ A high-quality dual-color printer (pen plotter) built with LEGO® MINDSTORMS® E
 
 **Disclaimer** LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.
 
-Video: (coming soon...)
+Video: (https://youtu.be/4n-CqndsTY0?si=nzHOy9ekZPp9xt0U)
 
 ![Printer Image](media/img1.png)
 
