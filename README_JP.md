@@ -5,7 +5,7 @@
 
 **免責事項** 本サイトは、LEGO®／レゴ®の商標所有者であるレゴグループの承認・許可・スポンサー契約を得て運営しているものではありません。
 
-動画URL: (制作中...)
+動画URL: (https://youtu.be/4n-CqndsTY0?si=nzHOy9ekZPp9xt0U)
 
 ![Printer Image](media/img1.png)
 
